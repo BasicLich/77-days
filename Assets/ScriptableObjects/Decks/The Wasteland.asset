@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07810818951b33648a648d8cac7742ce, type: 3}
+  m_Name: The Wasteland
+  m_EditorClassIdentifier: 
+  deck:
+    composition:
+    - card: {fileID: 11400000, guid: ae051d90f298216409c3a500b1022fe3, type: 2}
+      copies: 1
+    - card: {fileID: 11400000, guid: 0dbb5c84e8d60a44e9794698a15cb3bb, type: 2}
+      copies: 1
+    - card: {fileID: 11400000, guid: 901592911de31414ea031744da0e0dc4, type: 2}
+      copies: 1
+    - card: {fileID: 11400000, guid: 04555385aba90114195704c527062dbc, type: 2}
+      copies: 1
+    - card: {fileID: 11400000, guid: af13444fea2e8944bac4236fb05b535b, type: 2}
+      copies: 1
+    - card: {fileID: 11400000, guid: 719f5b8e656feb142a08204c0b7ce95e, type: 2}
+      copies: 1
+    - card: {fileID: 11400000, guid: 1c10f69eab1ef9943810202a25af8a65, type: 2}
+      copies: 1

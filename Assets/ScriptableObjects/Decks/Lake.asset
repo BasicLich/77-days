@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07810818951b33648a648d8cac7742ce, type: 3}
+  m_Name: Lake
+  m_EditorClassIdentifier: 
+  deck:
+    composition:
+    - card: {fileID: 11400000, guid: 2afb7af605a99ae4db0bb1d17757f3a1, type: 2}
+      copies: 1
+    - card: {fileID: 11400000, guid: b807b2b2dea3d9a48adc62d8ace17a35, type: 2}
+      copies: 1
+    - card: {fileID: 11400000, guid: aee99e28c33b27646bfd0b03dbd5bf38, type: 2}
+      copies: 3
+    - card: {fileID: 11400000, guid: de0c161447de91b4f9d352e6862ec6e4, type: 2}
+      copies: 1
+    - card: {fileID: 11400000, guid: e54a0df3636e42641a17cb00096cd7ae, type: 2}
+      copies: 1
+    - card: {fileID: 11400000, guid: 8cc56871bef4cd5468e0d8709ab9bda1, type: 2}
+      copies: 10
+    - card: {fileID: 11400000, guid: a79cd17a7372ced46b2a0fd51d78bb34, type: 2}
+      copies: 10
+    - card: {fileID: 11400000, guid: 2896a6888d994164ab78f27e2528f736, type: 2}
+      copies: 5
+    - card: {fileID: 11400000, guid: 1e36b6ae3dca8f34f8ee22ab33f2fe77, type: 2}
+      copies: 1
+    - card: {fileID: 11400000, guid: 3a02a00f717e3ab44a52c8084aac49cb, type: 2}
+      copies: 10
+    - card: {fileID: 11400000, guid: 354eff32b3bbe694d80e7ea093a405b6, type: 2}
+      copies: 1

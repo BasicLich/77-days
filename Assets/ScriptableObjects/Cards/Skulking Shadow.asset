@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82d6edb7e6e9b2a4593f99935459bd29, type: 3}
+  m_Name: Skulking Shadow
+  m_EditorClassIdentifier: 
+  cardName: skulking shadow
+  icon: {fileID: 21300000, guid: 3b5731fa76bc8a94d93410b761196cb6, type: 3}
+  cardEffectsSet:
+    cardEffects:
+    - item: {fileID: 11400000, guid: 8e0cde74bdb7155478825d891300b8ca, type: 2}
+      quantity: -15
+    - item: {fileID: 11400000, guid: 86371fe98ce768b4185e07b15dc989d6, type: 2}
+      quantity: 1

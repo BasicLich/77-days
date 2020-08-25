@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82d6edb7e6e9b2a4593f99935459bd29, type: 3}
+  m_Name: Gross Old Rations
+  m_EditorClassIdentifier: 
+  cardName: gross old rations
+  icon: {fileID: 21300000, guid: 3f8450276477084409b68a035cacef06, type: 3}
+  cardEffectsSet:
+    cardEffects:
+    - item: {fileID: 11400000, guid: bbc3e905e0d15fb4491af75672b684b8, type: 2}
+      quantity: -1
+    - item: {fileID: 11400000, guid: 4ae6806ac8d08f74d9a3f769da193a8c, type: 2}
+      quantity: 7

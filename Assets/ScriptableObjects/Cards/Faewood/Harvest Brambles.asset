@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6bb7b3e0fe605d4f9cc1b969250a2dd, type: 3}
+  m_Name: Harvest Brambles
+  m_EditorClassIdentifier: 
+  cardName: harvest brambles
+  icon: {fileID: 21300000, guid: 6e94b89cd6e4ea2488c76329dc85e115, type: 3}
+  cardEffectsSet:
+    cardEffects:
+    - item: {fileID: 11400000, guid: 2a71ba2781ed0b34593c4dc5c0043d79, type: 2}
+      quantity: -1
+    - item: {fileID: 11400000, guid: 4ae6806ac8d08f74d9a3f769da193a8c, type: 2}
+      quantity: 1
+    - item: {fileID: 11400000, guid: 41f76b1aab4f4ba448631625c543a91c, type: 2}
+      quantity: 1
+  transformToCard: {fileID: 11400000, guid: be38023d7a1ddaa4ea5fab4a872a277f, type: 2}
+  hasItem: {fileID: 11400000, guid: d0bc9e5d0432d754b99ec5363d501306, type: 2}

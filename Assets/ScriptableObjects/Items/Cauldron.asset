@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0acf836d15eaf340933cd7fc72407e8, type: 3}
+  m_Name: Cauldron
+  m_EditorClassIdentifier: 
+  itemName: cauldron
+  icon: {fileID: 21300000, guid: 0cb5940843518ce47918755fe97bda02, type: 3}
+  sellValue: 3
+  weaponPower: 0
+  description: if a full meal is eaten at night, you restore an additional 1 health.
+    left click to use 2 essence to attempt to brew a health potion with 50% chance
+    of success
+  effectPower: 1
+  resourceItem: 0
+  quantityLimit: 1
+  consumable: 0
+  totalEffect:
+    cardEffects:
+    - item: {fileID: 11400000, guid: fc8e7b4ec2af39742a1a43cd7f58a31a, type: 2}
+      quantity: -2
+    - item: {fileID: 11400000, guid: d6f1d63beadf2cd46bef898d4ea30d2d, type: 2}
+      quantity: 1
+  rewardEffects:
+    cardEffects:
+    - item: {fileID: 11400000, guid: d6f1d63beadf2cd46bef898d4ea30d2d, type: 2}
+      quantity: 1
+  costEffects:
+    cardEffects:
+    - item: {fileID: 11400000, guid: fc8e7b4ec2af39742a1a43cd7f58a31a, type: 2}
+      quantity: -2
+  successChance: 0.5

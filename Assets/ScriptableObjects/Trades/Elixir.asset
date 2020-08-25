@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39a8b027abcdc0343bc6436c88a35b39, type: 3}
+  m_Name: Elixir
+  m_EditorClassIdentifier: 
+  get:
+  - item: {fileID: 11400000, guid: 2b3a34b823979974aa0357c274063fec, type: 2}
+    quantity: 1
+  cost:
+  - item: {fileID: 11400000, guid: fc8e7b4ec2af39742a1a43cd7f58a31a, type: 2}
+    quantity: 5
+  - item: {fileID: 11400000, guid: f0f84b22228e09b4ab97bb87215122c0, type: 2}
+    quantity: 2
+  - item: {fileID: 11400000, guid: 8e0cde74bdb7155478825d891300b8ca, type: 2}
+    quantity: 1

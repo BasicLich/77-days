@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39a8b027abcdc0343bc6436c88a35b39, type: 3}
+  m_Name: Magic Missile
+  m_EditorClassIdentifier: 
+  get:
+  - item: {fileID: 11400000, guid: 709e806cb28a25b4e841c97168753373, type: 2}
+    quantity: 1
+  cost:
+  - item: {fileID: 11400000, guid: f47e658fac8cd4c41ae9e8c64803dc59, type: 2}
+    quantity: 3
+  - item: {fileID: 11400000, guid: fc8e7b4ec2af39742a1a43cd7f58a31a, type: 2}
+    quantity: 30
+  - item: {fileID: 11400000, guid: 4860ccf38183b0c45bee2edaaa62c568, type: 2}
+    quantity: 10
+  - item: {fileID: 11400000, guid: 8e0cde74bdb7155478825d891300b8ca, type: 2}
+    quantity: 50

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e582b96c5cfe7a8438095a8eb26f7ec3, type: 3}
+  m_Name: Playful Pixie
+  m_EditorClassIdentifier: 
+  cardName: playful pixie
+  icon: {fileID: 21300000, guid: 16e01315e66c0bd4c904e6b1de9c6335, type: 3}
+  cardEffectsSet:
+    cardEffects:
+    - item: {fileID: 11400000, guid: 66ba20cd570cc0a4c8cc92404a4caab5, type: 2}
+      quantity: 3
+    - item: {fileID: 11400000, guid: bbc3e905e0d15fb4491af75672b684b8, type: 2}
+      quantity: 3
+    - item: {fileID: 11400000, guid: 2a71ba2781ed0b34593c4dc5c0043d79, type: 2}
+      quantity: 5
+  requiredBackground: 0
+  purgeItem: {fileID: 11400000, guid: e2e023b5a78478944a3efbc7aebbadd4, type: 2}
+  cardEffectsSets:
+  - cardEffects:
+    - item: {fileID: 11400000, guid: 66ba20cd570cc0a4c8cc92404a4caab5, type: 2}
+      quantity: 3
+    - item: {fileID: 11400000, guid: bbc3e905e0d15fb4491af75672b684b8, type: 2}
+      quantity: 3
+    - item: {fileID: 11400000, guid: 2a71ba2781ed0b34593c4dc5c0043d79, type: 2}
+      quantity: 5

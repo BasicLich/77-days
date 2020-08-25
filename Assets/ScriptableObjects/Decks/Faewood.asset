@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07810818951b33648a648d8cac7742ce, type: 3}
+  m_Name: Faewood
+  m_EditorClassIdentifier: 
+  deck:
+    composition:
+    - card: {fileID: 11400000, guid: 2afb7af605a99ae4db0bb1d17757f3a1, type: 2}
+      copies: 1
+    - card: {fileID: 11400000, guid: b807b2b2dea3d9a48adc62d8ace17a35, type: 2}
+      copies: 1
+    - card: {fileID: 11400000, guid: aee99e28c33b27646bfd0b03dbd5bf38, type: 2}
+      copies: 3
+    - card: {fileID: 11400000, guid: de0c161447de91b4f9d352e6862ec6e4, type: 2}
+      copies: 1
+    - card: {fileID: 11400000, guid: e54a0df3636e42641a17cb00096cd7ae, type: 2}
+      copies: 1
+    - card: {fileID: 11400000, guid: 37d3a84243a94054b866ae6ded1fd067, type: 2}
+      copies: 10
+    - card: {fileID: 11400000, guid: fc2ae0b53fc833842a9da63c090a94b0, type: 2}
+      copies: 10
+    - card: {fileID: 11400000, guid: 2eb7342cd7a3c344e912bca3a003f59c, type: 2}
+      copies: 5
+    - card: {fileID: 11400000, guid: a66e036af470a1f4b802644efa5ac30c, type: 2}
+      copies: 1
+    - card: {fileID: 11400000, guid: eb09f470a365ec34a9d60a002a42f0b6, type: 2}
+      copies: 1
+    - card: {fileID: 11400000, guid: f3dec77d9e2504645a44431b9e757644, type: 2}
+      copies: 3
+    - card: {fileID: 11400000, guid: 54459bc0cc89ace4792cea13842db339, type: 2}
+      copies: 10
+    - card: {fileID: 11400000, guid: a5217913cfb486144869b8f31e0ccef9, type: 2}
+      copies: 30
+    - card: {fileID: 11400000, guid: 3e82365982c1dc741b693bea71582272, type: 2}
+      copies: 30
+    - card: {fileID: 11400000, guid: ebf88380fc25c6e4d9b00146e3b09fec, type: 2}
+      copies: 30

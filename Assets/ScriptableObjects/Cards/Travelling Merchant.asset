@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e582b96c5cfe7a8438095a8eb26f7ec3, type: 3}
+  m_Name: Travelling Merchant
+  m_EditorClassIdentifier: 
+  cardName: travelling merchant
+  icon: {fileID: 21300000, guid: 948ec96ef3b03874ea60a9653ffc85d3, type: 3}
+  cardEffectsSet:
+    cardEffects: []
+  requiredBackground: 0
+  purgeItem: {fileID: 0}
+  cardEffectsSets:
+  - cardEffects:
+    - item: {fileID: 11400000, guid: 8e0cde74bdb7155478825d891300b8ca, type: 2}
+      quantity: -3
+    - item: {fileID: 11400000, guid: d0bc9e5d0432d754b99ec5363d501306, type: 2}
+      quantity: 1
+  - cardEffects:
+    - item: {fileID: 11400000, guid: 8e0cde74bdb7155478825d891300b8ca, type: 2}
+      quantity: -3
+    - item: {fileID: 11400000, guid: 8fc93613c5d88ea468abe2fc389287da, type: 2}
+      quantity: 1
+  - cardEffects:
+    - item: {fileID: 11400000, guid: 8e0cde74bdb7155478825d891300b8ca, type: 2}
+      quantity: -3
+    - item: {fileID: 11400000, guid: e2e023b5a78478944a3efbc7aebbadd4, type: 2}
+      quantity: 1
