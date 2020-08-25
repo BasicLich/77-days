@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Map : MonoBehaviour {
-    // TODO // really should use a proper graph. at least it's linear
+    // TODO // really should use a proper graph. at least it's constant time
     public List<LocationNode> locations;
     private Dictionary<Location, LocationNode> _nodeDict = new Dictionary<Location, LocationNode>();
     [Tooltip("Index of start location in locations list.")]
